@@ -12,3 +12,5 @@
 * [Ediția 2023, runda I](https://github.com/MateInfo-UB/MateInfoUB-2023-Informatica-Runda-I)
 * [Ediția 2022, runda II](https://github.com/MateInfo-UB/MateInfoUB-2022-Informatica-Runda-II)
 * [Ediția 2022, runda I](https://github.com/MateInfo-UB/MateInfoUB-2022-Informatica-Runda-I)
+* Ediția 2021, rundaII?
+* [Ediția 201, runda I](https://github.com/MateInfo-UB/MateInfoUB-2021-Informatica-Runda-I)
