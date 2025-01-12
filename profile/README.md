@@ -15,3 +15,6 @@
 * [Ediția 2021, runda II](https://github.com/MateInfo-UB/MateInfoUB-2021-Informatica-Runda-II)
 * [Ediția 2021, runda I](https://github.com/MateInfo-UB/MateInfoUB-2021-Informatica-Runda-I)
 
+## Simulare și Subiecte
+
+Runda I a concursului MateInfo UB, secțiunea Informatică poate fi simulată [aici](https://mateinfo-ub.github.io/Simulari-Etapa-I/). La aceeași adresă pot fi găsite subiectele din anii trecuți.
